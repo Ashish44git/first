@@ -22,7 +22,10 @@ body {
     flex-wrap: wrap;
     align-items: center;
 }
-
+.navbar{
+    margin:0;
+    padding:1opx;
+}
 .navbar img {
     width: 2vw;
     height: 2.6vw;
